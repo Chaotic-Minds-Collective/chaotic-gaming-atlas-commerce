@@ -1,8 +1,8 @@
-# CMG ATLAS Commerce Plugin
+# CMG Commerce
 
-A Chaotic Minds Gaming (CMG)-branded multi-grid economy and shop with durable entitlements and reward delivery.
+A Chaotic Minds Gaming-branded multi-grid economy and shop with durable entitlements and reward delivery.
 
-This Chaotic Minds Gaming (CMG)-specific plugin extends [CMG Core](https://github.com/Chaotic-Minds-Collective/chaotic-minds-gaming-atlas-core) and the [ATLAS integration adapter](https://github.com/Chaotic-Minds-Collective/chaotic-minds-gaming-atlas); it does not replace either foundation.
+This Chaotic Minds Gaming-specific module extends [Chaotic Gaming Core](https://github.com/Chaotic-Minds-Collective/chaotic-gaming-core) and the [ATLAS integration adapter](https://github.com/Chaotic-Minds-Collective/chaotic-gaming-atlas); it does not replace either foundation.
 
 ## Feature scope
 - Original CMG shop catalogue and purchase history

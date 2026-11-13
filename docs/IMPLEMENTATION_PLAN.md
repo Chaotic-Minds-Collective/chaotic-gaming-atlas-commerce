@@ -1,7 +1,7 @@
-# CMG ATLAS Commerce Plugin — Implementation Plan
+# CMG Commerce — Implementation Plan
 
 ## Purpose
-A Chaotic Minds Gaming (CMG)-branded multi-grid economy and shop with durable entitlements and reward delivery.
+A Chaotic Minds Gaming-branded multi-grid economy and shop with durable entitlements and reward delivery.
 
 ## Feature scope
 - Original CMG shop catalogue and purchase history
